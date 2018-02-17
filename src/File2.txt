@@ -1,7 +1,7 @@
-func1
+Class1
 {
-  DoSomething....
-  DoSomething123....
+  prop 1
+  prop 2
 }
 
 

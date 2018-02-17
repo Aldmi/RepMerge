@@ -13,10 +13,9 @@ func299
   ///////
 }
 
-<<<<<<< HEAD
+
 func3
 {
 DoSomething....
 }
-=======
->>>>>>> FixBug1
+

@@ -1,7 +1,7 @@
-Class1
+Class123
 {
   prop 1
-  prop 2
+  prlklop 2222
 }
 
 

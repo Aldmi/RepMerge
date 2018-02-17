@@ -2,6 +2,7 @@ Class123
 {
   prop 1
   prlklop 2222
+  prop 777
 }
 
 
@@ -11,3 +12,4 @@ func299
   DoSo99meth99ing....
   ///////
 }
+

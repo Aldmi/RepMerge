@@ -19,3 +19,8 @@ func3
 DoSomething....
 }
 
+func4
+{
+DoSomething....
+}
+

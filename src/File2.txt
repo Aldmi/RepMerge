@@ -19,10 +19,10 @@ func3
 DoSomething....
 }
 
-func999
+func4
 {
 DoSomething....
-DoSomething....
 }
+
 
 

@@ -11,3 +11,8 @@ func299
   DoSo99meth99ing....
   ///////
 }
+
+func3
+{
+DoSomething....
+}

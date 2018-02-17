@@ -2,6 +2,7 @@ Class123
 {
   prop 1
   prlklop 2222
+  prop 777
 }
 
 
@@ -12,7 +13,10 @@ func299
   ///////
 }
 
+<<<<<<< HEAD
 func3
 {
 DoSomething....
 }
+=======
+>>>>>>> FixBug1

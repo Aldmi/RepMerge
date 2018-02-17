@@ -2,3 +2,9 @@ func1
 {
   DoSomething....
 }
+
+
+func2
+{
+  DoSomething....
+}

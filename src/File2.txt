@@ -1,6 +1,7 @@
 func1
 {
   DoSomething....
+  DoSomething....
 }
 
 

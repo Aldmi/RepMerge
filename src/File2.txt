@@ -24,9 +24,14 @@ func4
 DoSomething....
 }
 
-func5
+func6
 {
+ GO.....
 DoSomething....444
 }
 
+func7
+{
+ GO2.....
+}
 

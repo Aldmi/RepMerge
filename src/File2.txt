@@ -38,5 +38,10 @@ func7
 ClassNew
 {
   prop 1;
+  
+  ctor()
+  {
+    initialize ...
+  }
 }
 

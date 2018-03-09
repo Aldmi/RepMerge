@@ -24,5 +24,8 @@ func4
 DoSomething....
 }
 
-
+func6
+{
+ GO.....
+}
 

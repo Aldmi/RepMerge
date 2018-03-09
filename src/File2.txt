@@ -38,5 +38,6 @@ func7
 ClassNew
 {
   prop 1;
+  prop 2;
 }
 

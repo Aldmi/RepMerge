@@ -38,10 +38,14 @@ func7
 ClassNew
 {
   prop 1;
+<<<<<<< HEAD
   
   ctor()
   {
     initialize ...
   }
+=======
+  prop 2;
+>>>>>>> 877d1084c092ca0383c1185f6d30649fff6177e0
 }
 

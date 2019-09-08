@@ -23,15 +23,3 @@ Experiment 3
 Experiment 4
 Experiment 5
 Experiment 6
-<<<<<<< .merge_file_a16188
-<<<<<<< HEAD
-
-Master6
-=======
-Experiment 7
-Experiment 8
->>>>>>> Experioment
-=======
-Experiment 7
-Experiment 8
->>>>>>> .merge_file_a17804
